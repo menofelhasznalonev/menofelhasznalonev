@@ -2,7 +2,9 @@
 
 ## Bemutatkozás de alcím
 
-Iseretem van több programozási nyelvben is (Python, C#, Javascript)
+Ismeretem van több programozási nyelvben is 
+
+![Scratch](https://img.shields.io/badge/Scratch-%23FF6600.svg?style=for-the-badge&logo=scratch&logoColor=white)
 
 Github fiókom: [menofelhasznalonev](https://github.com/menofelhasznalonev)
 
